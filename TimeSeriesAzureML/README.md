@@ -1,0 +1,1 @@
+This folder contains TimeSeries forecasting examples starting with ARIMA models and goes to forecasting using Neural Network
